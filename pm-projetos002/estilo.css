@@ -1,0 +1,48 @@
+body {
+    background-color: #e6e6e6;
+    font-family: 'Open sans';
+    margin: 10px;
+}
+
+.img {
+    width: 100%; 
+    margin-left: 10px; 
+}
+
+.texto {
+    background-color: #fff; 
+    margin: 10px;
+}
+
+span {
+    text-transform: uppercase;   
+}
+
+.local {
+    font-size: 14px;
+    color: #333333;
+    margin-right: 12px;
+    font-weight: 300;
+    margin-left: 10px;
+}
+
+.hora {
+    font-size: 14px;
+    color: #999999;
+}
+
+h2 {
+    margin-left: 10px;
+}
+
+.detalhes a {
+    list-style-type: none; 
+    text-decoration: none;
+    color: #b5000d;  
+}
+
+.detalhes h3 {
+    color: #333333;
+    font-size: 14px; 
+    margin-left: 10px;
+}
